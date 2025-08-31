@@ -1,7 +1,7 @@
 Hi, I'm <Jedidiah Anarfi>! 👋
 
-An aspiring Front-End Web Developer | ALX Learner | Ghana 🇬🇭
-![<KwekuAnarfi25>'s Stats](https://github-readme-stats.vercel.app/api?username=<KwekuAnarfi25>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+An aspiring Front-End Web Developer | ALX Learner | Ghana
+
 
 ## 🚀 About Me
 
